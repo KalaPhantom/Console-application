@@ -1,0 +1,14 @@
+D:\Programming Projects\Border_layout\bin\Debug\net8.0\Border_layout.exe
+D:\Programming Projects\Border_layout\bin\Debug\net8.0\Border_layout.deps.json
+D:\Programming Projects\Border_layout\bin\Debug\net8.0\Border_layout.runtimeconfig.json
+D:\Programming Projects\Border_layout\bin\Debug\net8.0\Border_layout.dll
+D:\Programming Projects\Border_layout\bin\Debug\net8.0\Border_layout.pdb
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.AssemblyInfoInputs.cache
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.AssemblyInfo.cs
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.dll
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\refint\Border_layout.dll
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.pdb
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\Border_layout.genruntimeconfig.cache
+D:\Programming Projects\Border_layout\obj\Debug\net8.0\ref\Border_layout.dll
